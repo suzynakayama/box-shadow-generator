@@ -4,4 +4,4 @@ Simple static page that helps you generate a simple box shadow, then just copy a
 
 Find the live site [here](https://suzynakayama.github.io/box-shadow-generator/)
 
-Made coding along with [Web Dev Simplified](https://www.youtube.com/watch?v=w2D-lQtYDks)
+Coding along with [Web Dev Simplified](https://www.youtube.com/watch?v=w2D-lQtYDks)
